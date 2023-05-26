@@ -3,4 +3,5 @@ Ortur Obsidian Klipper printer.conf for original Mainboard, In my case, using a 
 The original software lacked PID BED and input shaper.
 - original display does not work
 - use the file at your own risk
+- PSU control does not work
 
