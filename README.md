@@ -1,4 +1,6 @@
 ![20230601_163252](https://github.com/DariuszJJ/Ortur-Obsidian-Klipper/assets/45244319/81b7110f-b02f-465d-90a4-df3e9be34c00)
+![20230605_171306](https://github.com/DariuszJJ/Ortur-Obsidian-Klipper/assets/45244319/44a41a17-9cc9-4b7b-b8e7-a1f099b8428e)
+
 
 # Ortur-Obsidian-Klipper
 Ortur Obsidian Klipper printer.conf for original Mainboard.In my case using a Klipper significantly improved the quality and speed-up printouts. 
