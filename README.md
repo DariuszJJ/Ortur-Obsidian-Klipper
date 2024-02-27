@@ -20,6 +20,8 @@ The "make flash" command does not work on the ORTUR OBSIDIAN. Instead,
 after running "make", copy the generated "out/klipper.bin" file to a
 file named "OPF_OBS_V62_MARLIN_20230325.bin" put on an SD in ~/system/ card and then restart the ORTUR OBSIDIAN
 If there is a problem with communication, I recommend using the UART output on the motherboard and a USB adapter.
+
+Bonus I recommend cooling as below:
 ![20230611_080942](https://github.com/DariuszJJ/Ortur-Obsidian-Klipper/assets/45244319/20a3ae5f-f4ba-4a1a-82c2-9bbae99f9a03)
 
 ![20230611_080932](https://github.com/DariuszJJ/Ortur-Obsidian-Klipper/assets/45244319/edede05c-afc7-4ff9-8c59-25e9bd9d5a3a)
